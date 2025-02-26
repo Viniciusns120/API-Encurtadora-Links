@@ -1,4 +1,3 @@
-```markdown
 # 📎 API-Encurtadora-Links
 
 ## 🌟 Overview
@@ -20,12 +19,6 @@ To start the API, run:
 ```bash
 python app.py
 ```
-
-## 📚 Documentation
-For detailed API documentation, refer to the [API Documentation](link-to-api-docs).
-
-## 🤝 Contributing
-We welcome contributions! Please see our [CONTRIBUTING.md](link-to-contributing.md) for guidelines.
 
 
 ## 📧 Contact
