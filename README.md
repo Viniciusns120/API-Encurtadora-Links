@@ -23,4 +23,3 @@ python app.py
 
 ## 📧 Contact
 For any inquiries, please contact the repository owner at [Viniciusns120](https://github.com/Viniciusns120).
-```
